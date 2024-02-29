@@ -11,12 +11,15 @@ Welcome to the Weather App! This ReactJS application allows users to search for 
 
 ## Demo
 
-![Weather App Screenshot](Screenshot.png)
+![Weather App Screenshot](./src/Components/Assets/Screenshot.png)
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/DuyHuynh153/weather-app.git
 ```
+
+2. cd WeatherApp
+3. npm start

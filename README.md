@@ -18,7 +18,7 @@ Welcome to the Weather App! This ReactJS application allows users to search for 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/DuyHuynh153/weather-app.git
+git clone https://github.com/DuyHuynh153/Weather-app.git
 ```
 
 2. cd WeatherApp
